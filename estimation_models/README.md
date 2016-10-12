@@ -6,5 +6,5 @@ The first aspect of Holistic Estimation Systems is what we call Estimation Model
 - The use of probability distributions as the values of metrics.
 - Careful accounting of metric uncertainty through functions.
 - Aggregation methods to combine different ways of estimating individual metrics.
-- The use of **contectual adjustment** in order for metrics values to be as accurate as possible, given human understanding.
+- The use of *contectual adjustment* in order for metrics values to be as accurate as possible, given human understanding.
 
