@@ -1,10 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-  * Motivation
-  * [Prior Art](introduction/prior_art.md)
-  * Distinguishing Features
-  * Limitations
+  * [Background](introduction/background.md)
+  * [Summary](introduction/summary.md)
+  * [Related Work](introduction/related_work.md)
+* [Theory](theory.md)
+  * [Probability and Reference Frames](introduction/related_work.md)
+  * [Probability Distributions of Probabilties](introduction/related_work.md)
 * [Estimation Models](estimation_models/README.md)
   * [Terminology](estimation_models/terminology.md)
   * [Uncertainty Accounting](estimation_models/uncertainty_accounting.md)
